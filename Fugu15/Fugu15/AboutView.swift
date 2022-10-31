@@ -61,7 +61,7 @@ struct AboutView: View {
             //
             Link("Source Code", destination: URL(string: "https://github.com/pinauten/Fugu15")!)
                 .padding([.top, .leading, .trailing])
-            Link("License", destination: URL(string: "https://github.com/pinauten/Fugu15/LICENSE")!)
+            Link("License", destination: URL(string: "https://github.com/pinauten/Fugu15/blob/master/LICENSE")!)
                 .padding([.top, .leading, .trailing])
             Link("Credits", destination: URL(string: "https://github.com/pinauten/Fugu15/blob/master/README.md#Credits")!)
                 .padding([.top, .leading, .trailing])
