@@ -1,0 +1,157 @@
+"Bootstrapping" = "Bootstrapping";
+
+"Button_Cancel" = "Annuleren";
+
+"Button_Hide_Jailbreak" = "Jailbreak verbergen";
+
+"Button_Hide_Logs_Title" = "Logs verbergen";
+
+"Button_Jailbreak_Title" = "Jailbreak";
+
+"Button_Remove_Jailbreak" = "Jailbreak verwijderen";
+
+"Button_Set_Mobile_Password" = "Mobile wachtwoord instellen";
+
+"Popup_Change_Mobile_Password_Message" = "Set the mobile password of your device, this can also be used for root access using sudo. If you want to set the root password, you can do so from a mobile shell using \"sudo passwd root\"";
+
+"Button_Reinstall_Package_Managers" = "Reinstall Package Managers";
+
+"Button_Set" = "Set";
+
+"Button_Show_Logs_Title" = "Logs tonen";
+
+"Button_Unhide_Jailbreak" = "Jailbreak tonen";
+
+"Button_Update" = "Update";
+
+"Button_Update_Available" = "Update beschikbaar";
+
+"Button_Update_Environment" = "Update Environment";
+
+"Bypassing PAC" = "PAC aan het omzeilen";
+
+"Bypassing PPL" = "PPL aan het omzeilen";
+
+"Changelog_Unavailable_Text" = "Changelog niet beschikbaar";
+
+"Context_Menu_Copy_To_Clipboard" = "Kopieer naar klembord";
+
+"Credits_Button_Discord" = "Discord";
+
+"Credits_Button_License" = "Licentie";
+
+"Credits_Button_Source_Code" = "Broncode";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "Dopamine version %@\n%@";
+
+"Credits_Header_Special_Thanks" = "Speciale dank aan:";
+
+"Credits_Made_By" = "Gemaakt door opa334, évelyne";
+
+"Credits_Made_By_Subheadline" = "Gebruikersinterface door sourcelocation\nLogo en app icoon door xerus";
+
+"Finalizing Bootstrap" = "Bootstrap aan het afronden";
+
+"Gaining r/w" = "r/w aan het bemachtigen";
+
+"Hint_Hide_Jailbreak" = "\"Jailbreak verbergen\" verwijderd jailbreak-gerelateerde bestanden tot de volgende jailbreak";
+
+"Hint_Hide_Jailbreak_Jailbroken" = "\"Hide Jailbreak\" partially disables the jailbreak and aims to make detection more challenging. However, it is not entirely effective and does not conceal everything.";
+
+"Initializing Environment" = "Omgeving aan het initialiseren";
+
+"Initializing System Hook" = "System Hook aan het initialiseren";
+
+"Jailbreak_Done" = "Klaar!";
+
+"Launching kexploitd" = "kexploitd aan het opstarten";
+
+"Enabling Wi-Fi" = "Enabling Wi-Fi";
+
+"Disabling Wi-Fi" = "Disabling Wi-Fi";
+
+"Launching oobPCI" = "oobPCI aan het opstarten";
+
+"Loading Basebin Trustcache" = "Basebin Trustcache aan het laden";
+
+"Menu_Credits_Title" = "Credits";
+
+"Menu_Settings_Title" = "Instellingen";
+
+"Menu_Reboot_Userspace_Title" = "Userspace herstarten";
+
+"Menu_Restart_SpringBoard_Title" = "SpringBoard herstarten";
+
+"Settings_iDownload" = "iDownload (Ontwikkelaar Terminal)";
+
+"Settings_Tweak_Injection" = "Tweak Injection";
+
+"Settings_Verbose_Logs" = "Uitgebreide logs";
+
+"Patchfinding" = "Patchfinding";
+
+"PM_Reinstall_Done_Text" = "The selected package managers have been reinstalled";
+
+"Rebuilding TrustCache" = "TrustCache aan het herbouwen";
+
+"Refreshing Icon Cache" = "Icon Cache aan het herbouwen";
+
+"Settings_Footer_Device_Bootstrapped" = "Apparaat is gebootstrapped";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "Apparaat is niet gebootstrapped";
+
+"Starting jailbreakd" = "jailbreakd aan het starten";
+
+"Starting Launch Daemons" = "Launch Daemons aan het starten";
+
+"Status_Title_Jailbreaking" = "Aan het jailbreaken";
+
+"Status_Title_Jailbroken" = "Jailbreak klaar";
+
+"Status_Title_Select_Package_Managers" = "Selecteer Package Manager(s)";
+
+"Status_Title_Unsuccessful" = "Mislukt";
+
+"Success_Rate %@%% (%lld/%lld)" = "Slagingspercentage: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "Changelog";
+
+"Title_Made_By" = "by opa334, évelyne\nUI by sourceloc\nBased on Fugu15";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1 | A12 - A15, M1";
+
+"Update_Log_Hint_Scrollable" = "Er kan gescrold worden door het log overzicht";
+
+"Update_Status_Downloading" = "Update aan het downloaden...";
+
+"Update_Status_Installing" = "Update aan het installeren...";
+
+"Update_Status_Subtitle_Please_Wait" = "Een ogenblik geduld tot de bestanden zijn gedownload";
+
+"Update_Status_Subtitle_Restart_Soon" = "Het apparaat zal binnenkort worden herstart";
+
+"Alert_Button_Uninstall" = "De-installeren";
+
+"Alert_Tweak_Injection_Toggled_Body" = "Een userspace reboot is nodig om de veranderingen toe te passen. Wil je het nu doen?";
+
+"Popup_Change_Mobile_Password_Title" = "Mobile wachtwoord wijzigen";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "Het verwijderen van jailbreak zal alle jailbreak-gerelateerde bestanden verwijderen, maar alle reguliere apps, bestanden en gegevens blijven behouden. Weet u zeker dat u wilt doorgaan? U kunt deze actie niet ongedaan maken.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "Jailbreak verwijderen";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "Userspace Reboot Vereist";
+
+"Select_Package_Managers_Install_Message" = "Als u niet zeker weet welke u moet selecteren, selecteer dan Sileo";
+
+"Select_Package_Managers_Reinstall_Message" = "Selecteer pakketbeheerders om opnieuw te installeren";
+
+"Reinstall" = "Opnieuw installeren";
+
+"Continue" = "Doorgaan";
+
+"Close" = "Sluiten";
+
+"Title_Mismatching_Environment_Version" = "Niet overeenkomstige omgevingsversie";
+
+"Mismatching_Environment_Version_Update_Body" = "De versie van de omgeving waarmee op dit apparaat een jailbreak is uitgevoerd (%@) komt niet overeen met de huidige geïnstalleerde app-versie (%@).\nDoor op update te drukken wordt de jailbreak omgeving bijgewerkt naar die van de huidige geïnstalleerde app, uw toestel zal daarna een userspace reboot uitvoeren.";

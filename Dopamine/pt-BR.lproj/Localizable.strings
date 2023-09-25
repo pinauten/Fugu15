@@ -1,0 +1,157 @@
+"Bootstrapping" = "Configurando o 'Bootstrap'";
+
+"Button_Cancel" = "Cancelar";
+
+"Button_Hide_Jailbreak" = "Ocultar o Jailbreak";
+
+"Button_Hide_Logs_Title" = "Ocultar Logs";
+
+"Button_Jailbreak_Title" = "Jailbreak";
+
+"Button_Remove_Jailbreak" = "Remover o Jailbreak";
+
+"Button_Set_Mobile_Password" = "Definir Senha 'Mobile'";
+
+"Popup_Change_Mobile_Password_Message" = "Defina a senha 'Mobile' do dispositivo, que é usada para obter privilégios de admnistrador usando o comando \"sudo\". Se quiser definir a senha de admnistrador, você deve executar o seguinte comando em um terminal shell: \"sudo passwd root\"";
+
+"Button_Reinstall_Package_Managers" = "Reinstalar Gerenciadores de Pacotes";
+
+"Button_Set" = "Definir";
+
+"Button_Show_Logs_Title" = "Mostrar Logs";
+
+"Button_Unhide_Jailbreak" = "Deixar de ocultar o Jailbreak";
+
+"Button_Update" = "Atualizar";
+
+"Button_Update_Available" = "Atualização disponível";
+
+"Button_Update_Environment" = "Atualizar o 'Ambiente' do Jailbreak";
+
+"Bypassing PAC" = "Exploitando o 'PAC'";
+
+"Bypassing PPL" = "Exploitando o 'PPL'";
+
+"Changelog_Unavailable_Text" = "Histórico de mudanças indisponível";
+
+"Context_Menu_Copy_To_Clipboard" = "Copiar para área de transferência";
+
+"Credits_Button_Discord" = "Discord";
+
+"Credits_Button_License" = "Licenças";
+
+"Credits_Button_Source_Code" = "Código-Fonte";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "Dopamine versão %@\n%@";
+
+"Credits_Header_Special_Thanks" = "Agradecimentos:";
+
+"Credits_Made_By" = "Desenvolvido por opa334, évelyne";
+
+"Credits_Made_By_Subheadline" = "UI por sourcelocation\nLogo e ícone feito por xerus";
+
+"Finalizing Bootstrap" = "Finalizando o 'Bootstrap'";
+
+"Gaining r/w" = "Obtendo privilégios r/w";
+
+"Hint_Hide_Jailbreak" = "\"Ocultar o Jailbreak\" remove temporariamente os arquivos do Jailbreak até a próxima execução";
+
+"Hint_Hide_Jailbreak_Jailbroken" = "\"Ocultar o Jailbreak\" desabilita parcialmente o Jailbreak e tenta deixá-lo mais difícil de ser detectado. Entretando, não é completamente efetivo.";
+
+"Initializing Environment" = "Iniciando o Ambiente do Jailbreak";
+
+"Initializing System Hook" = "Inicializando o 'System Hook'";
+
+"Jailbreak_Done" = "Pronto!";
+
+"Launching kexploitd" = "Iniciando o 'kexploitd'";
+
+"Enabling Wi-Fi" = "Ativando o Wi-Fi";
+
+"Disabling Wi-Fi" = "Desativando o Wi-Fi";
+
+"Launching oobPCI" = "Inicializando o 'oobPCI'";
+
+"Loading Basebin Trustcache" = "Carregando o 'Basebin Trustcache'";
+
+"Menu_Credits_Title" = "Créditos";
+
+"Menu_Settings_Title" = "Configurações";
+
+"Menu_Reboot_Userspace_Title" = "Reiniciar 'Userspace'";
+
+"Menu_Restart_SpringBoard_Title" = "Reiniciar SpringBoard";
+
+"Settings_iDownload" = "iDownload (Terminal de desenvolvedor)";
+
+"Settings_Tweak_Injection" = "Injeção de Tweaks";
+
+"Settings_Verbose_Logs" = "Logs do Verbose";
+
+"Patchfinding" = "Patchfinding";
+
+"PM_Reinstall_Done_Text" = "Os Gerenciadores de Pacotes selecionados foram reinstalados";
+
+"Rebuilding TrustCache" = "Reconstruindo o 'TrustCache'";
+
+"Refreshing Icon Cache" = "Atualizando o Cache de Ícones";
+
+"Settings_Footer_Device_Bootstrapped" = "O 'Bootstrap' está configurado no dispositivo";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "O Bootstrap não está configurado no dispositivo";
+
+"Starting jailbreakd" = "Inicializando o 'jailbreakd'";
+
+"Starting Launch Daemons" = "Inicializando os 'Launch Daemons'";
+
+"Status_Title_Jailbreaking" = "Executando o Jailbreak";
+
+"Status_Title_Jailbroken" = "Jailbreak concluído!";
+
+"Status_Title_Select_Package_Managers" = "Escolha o(s) Gerenciador(es) de Pacotes";
+
+"Status_Title_Unsuccessful" = "Sem sucesso";
+
+"Success_Rate %@%% (%lld/%lld)" = "Taxa de sucesso: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "Histórico de mudanças";
+
+"Title_Made_By" = "Desenvolvido por opa334, évelyne\nUI por sourceloc\nBaseado no Fugu15";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1 | A12 - A15, M1";
+
+"Update_Log_Hint_Scrollable" = "Deslize para ver mais...";
+
+"Update_Status_Downloading" = "Baixando atualização...";
+
+"Update_Status_Installing" = "Instalando atualização...";
+
+"Update_Status_Subtitle_Please_Wait" = "Aguarde o download todos os arquivos";
+
+"Update_Status_Subtitle_Restart_Soon" = "O dispostivo reiniciará em breve";
+
+"Alert_Button_Uninstall" = "Desinstalar";
+
+"Alert_Tweak_Injection_Toggled_Body" = "Para que as mudanças sejam aplicadas, é necessário reiniciar o 'Userspace'. Reiniciar agora?";
+
+"Popup_Change_Mobile_Password_Title" = "Alterar senha 'Mobile'";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "Remover o Jailbreak irá deletar todos arquivos do Jailbreak, porém todos aplicativos, arquivos e informações se manterão. Você tem certeza que deseja continuar? Não será possível reverter isso.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "Remover o Jailbreak";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "Reiniciar o 'Userspace' é necessário";
+
+"Select_Package_Managers_Install_Message" = "Se estiver em dúvida, selecione o Sileo";
+
+"Select_Package_Managers_Reinstall_Message" = "Selecione Gerenciadores de Pacotes para reinstalar";
+
+"Reinstall" = "Reinstalar";
+
+"Continue" = "Continuar";
+
+"Close" = "Fechar";
+
+"Title_Mismatching_Environment_Version" = "A versão do 'Ambiente' do Jailbreak não está correta";
+
+"Mismatching_Environment_Version_Update_Body" = "A versão do 'Ambiente' do Jailbreak desse dispositivo foi configurada por (%@) e não é compatível com a versão instalada do aplicativo (%@)\nClicando em atualizar irá atualizar o 'Ambiente' do Jailbreak para a versão instalada do aplicativo, o dispositivo irá reiniciar o 'Userspace' depois.";

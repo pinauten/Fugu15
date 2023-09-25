@@ -1,0 +1,157 @@
+"Bootstrapping" = "Bootstrapping";
+
+"Button_Cancel" = "Hủy";
+
+"Button_Hide_Jailbreak" = "Ẩn Jailbreak";
+
+"Button_Hide_Logs_Title" = "Ẩn tệp Log";
+
+"Button_Jailbreak_Title" = "Jailbreak";
+
+"Button_Remove_Jailbreak" = "Xóa Jailbreak";
+
+"Button_Set_Mobile_Password" = "Đặt mật khẩu mobile";
+
+"Popup_Change_Mobile_Password_Message" = "Đặt mật khẩu root cho thiết bị, mật khẩu này cũng có thể được sử dụng để truy cập root bằng sudo. Nếu bạn muốn đặt mật khẩu root, bạn có thể dùng shell và sử dụng \"sudo passwd root\"";
+
+"Button_Reinstall_Package_Managers" = "Cài đặt lại các trình quản lý gói";
+
+"Button_Set" = "Đặt";
+
+"Button_Show_Logs_Title" = "Hiện tệp Log";
+
+"Button_Unhide_Jailbreak" = "Hiện Jailbreak";
+
+"Button_Update" = "Cập nhật";
+
+"Button_Update_Available" = "Có bản cập nhật mới";
+
+"Button_Update_Environment" = "Cập nhật \"Môi trường\"";
+
+"Bypassing PAC" = "Đang bypass PAC";
+
+"Bypassing PPL" = "Đang bypass PPL";
+
+"Changelog_Unavailable_Text" = "Không có Log thay đổi";
+
+"Context_Menu_Copy_To_Clipboard" = "Chép vào bộ nhớ tạm";
+
+"Credits_Button_Discord" = "Discord";
+
+"Credits_Button_License" = "Giấy phép";
+
+"Credits_Button_Source_Code" = "Mã nguồn";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "Dopamine bản %@\n%@";
+
+"Credits_Header_Special_Thanks" = "Đặc biệt cảm ơn:";
+
+"Credits_Made_By" = "Được tạo bởi opa334, évelyne";
+
+"Credits_Made_By_Subheadline" = "UI bởi sourcelocation\nLogo và icon bởi xerus";
+
+"Finalizing Bootstrap" = "Đang hoàn thiện Bootstrap";
+
+"Gaining r/w" = "Thu được quyền r/w";
+
+"Hint_Hide_Jailbreak" = "\"Ẩn Jailbreak\" sẽ tạm thời xóa các tệp tin liên quan đến Jailbreak cho đến khi bạn Jailbreak lại";
+
+"Hint_Hide_Jailbreak_Jailbroken" = "\"Ẩn Jailbreak\” vô hiệu hóa một phần bẻ khóa và nhằm mục đích tránh phát hiện Jailbreak. Tuy nhiên, nó không hoàn toàn hiệu quả và hoàn toàn ẩn jailbreak.";
+
+"Initializing Environment" = "Khởi tạo \"Môi trường\"";
+
+"Initializing System Hook" = "Khởi tạo System Hook";
+
+"Jailbreak_Done" = "Thành công!";
+
+"Launching kexploitd" = "Đang chạy kexploitd";
+
+"Enabling Wi-Fi" = "Đang bật Wi-Fi";
+
+"Disabling Wi-Fi" = "Đang tắt Wi-Fi";
+
+"Launching oobPCI" = "Đang chạy oobPCI";
+
+"Loading Basebin Trustcache" = "Đang tải Basebin Trustcache";
+
+"Menu_Credits_Title" = "Tác giả";
+
+"Menu_Settings_Title" = "Cài đặt";
+
+"Menu_Reboot_Userspace_Title" = "Khởi động lại Userspace";
+
+"Menu_Restart_SpringBoard_Title" = "Khởi động lại SpringBoard";
+
+"Settings_iDownload" = "iDownload (nhà phát triển)";
+
+"Settings_Tweak_Injection" = "Tweak Injection";
+
+"Settings_Verbose_Logs" = "Log Verbose";
+
+"Patchfinding" = "Đang tìm bản vá";
+
+"PM_Reinstall_Done_Text" = "Các trình quản lý gói đã chọn đã được cài đặt lại";
+
+"Rebuilding TrustCache" = "Đang build lại TrustCache";
+
+"Refreshing Icon Cache" = "Đang làm mới bộ nhớ đệm icon";
+
+"Settings_Footer_Device_Bootstrapped" = "Thiết bị đã được bootstrap";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "Thiết bị chưa được bootstrap";
+
+"Starting jailbreakd" = "Đang chạy jailbreakd";
+
+"Starting Launch Daemons" = "Đang chạy các Daemons";
+
+"Status_Title_Jailbreaking" = "Đang Jailbreak";
+
+"Status_Title_Jailbroken" = "Đã Jailbreak";
+
+"Status_Title_Select_Package_Managers" = "Chọn trình quản lý gói";
+
+"Status_Title_Unsuccessful" = "Không thành công";
+
+"Success_Rate %@%% (%lld/%lld)" = "Tỉ lệ thành công: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "Log thay đổi";
+
+"Title_Made_By" = "bởi opa334, évelyne\nUI bởi sourceloc\nDựa vào Fugu15";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1 | A12 - A15, M1";
+
+"Update_Log_Hint_Scrollable" = "Trang Log có thể vuốt lên và xuống";
+
+"Update_Status_Downloading" = "Đang tải bản cập nhật...";
+
+"Update_Status_Installing" = "Đang cài bản cập nhật...";
+
+"Update_Status_Subtitle_Please_Wait" = "Vui lòng chờ để tệp tin tải xuống";
+
+"Update_Status_Subtitle_Restart_Soon" = "Thiết bị sẽ khởi động lại";
+
+"Alert_Button_Uninstall" = "Gỡ cài đặt";
+
+"Alert_Tweak_Injection_Toggled_Body" = "Khởi động lại User là cần thiết để áp dụng các thay đổi. Bạn có muốn làm ngay bây giờ không?";
+
+"Popup_Change_Mobile_Password_Title" = "Đổi mật khẩu Mobile";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "Xóa Jailbreak sẽ xóa tất cả các tệp liên quan đến Jailbreak, tất cả các ứng dụng, tệp và dữ liệu thông thường sẽ được giữ. Bạn có chắc muốn tiếp tục? Hành động này không thể hoàn tác.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "Xoá Jailbreak";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "Yêu cầu khởi động lại Userspace";
+
+"Select_Package_Managers_Install_Message" = "Nếu không chắc nên chọn cái nào, hãy chọn Sileo";
+
+"Select_Package_Managers_Reinstall_Message" = "Chọn trình quản lý gói để cài đặt lại";
+
+"Reinstall" = "Cài đặt lại";
+
+"Continue" = "Tiếp tục";
+
+"Close" = "Đóng";
+
+"Title_Mismatching_Environment_Version" = "Phiên bản \"Môi trường\" không khớp";
+
+"Mismatching_Environment_Version_Update_Body" = "Phiên bản \”Môi trường\” mà thiết bị này đã được Jailbreak với (%@) không khớp với phiên bản ứng dụng hiện đang được cài đặt (%@)\nNhấn cập nhật sẽ cập nhật \”Môi trường\” Jailbreak lên một trong những ứng dụng hiện đang được cài đặt, thiết bị của bạn sẽ khởi động lại Userspace sau đó.";

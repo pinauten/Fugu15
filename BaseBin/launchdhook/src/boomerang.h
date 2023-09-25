@@ -1,0 +1,1 @@
+void boomerang_userspaceRebootIncoming();

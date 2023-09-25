@@ -1,0 +1,157 @@
+"Bootstrapping" = "جارِ التمهيد";
+
+"Button_Cancel" = "إلغاء";
+
+"Button_Hide_Jailbreak" = "إخفاء الجيلبريك";
+
+"Button_Hide_Logs_Title" = "إخفاء السجل";
+
+"Button_Jailbreak_Title" = "جيلبريك";
+
+"Button_Remove_Jailbreak" = "إزالة الجيلبريك";
+
+"Button_Set_Mobile_Password" = "تعيين كلمة سر الهاتف";
+
+"Popup_Change_Mobile_Password_Message" = "قم بتعيين كلمة سر الهاتف لجهازك، يمكن استخدام هذا أيضًا للوصول إلى الجذر باستخدام الأمر sudu. إذا كنت ترغب في تعيين كلمة سر الجذر، فيمكنك القيام بذلك من الوحدة الطرفية (التيرمنال) باستخدام \"sudo passwd root\"";
+
+"Button_Reinstall_Package_Managers" = "إعادة تثبيت مديري الحزم";
+
+"Button_Set" = "تعيين";
+
+"Button_Show_Logs_Title" = "إظهار السجل";
+
+"Button_Unhide_Jailbreak" = "عدم إخفاء الجيلبريك";
+
+"Button_Update" = "تحديث";
+
+"Button_Update_Available" = "يتوفر تحديث";
+
+"Button_Update_Environment" = "تحديث البيئة";
+
+"Bypassing PAC" = "تجاوز PAC";
+
+"Bypassing PPL" = "تجاوز PPL";
+
+"Changelog_Unavailable_Text" = "سجل التغييرات غير متاح";
+
+"Context_Menu_Copy_To_Clipboard" = "نسخ إلى الحافظة";
+
+"Credits_Button_Discord" = "Discord";
+
+"Credits_Button_License" = "الترخيص";
+
+"Credits_Button_Source_Code" = "شفرة المصدر";
+
+"Credits_Footer_Dopamine_Version %@\nOS:%@" = "إصدار Dopamine هو %@\n%@";
+
+"Credits_Header_Special_Thanks" = "شكر خاص:";
+
+"Credits_Made_By" = "صنع بواسطة opa334 و évelyne";
+
+"Credits_Made_By_Subheadline" = "واجهة المستخدم بواسطة sourcelocation\nالشعار والأيقونة بواسطة xerus";
+
+"Finalizing Bootstrap" = "جارِ إنهاء التمهيد";
+
+"Gaining r/w" = "الحصول على r/w";
+
+"Hint_Hide_Jailbreak" = "\"إخفاء الجيلبريك\" يقوم بإزالة الملفات المتعلقة بالجيلبريك مؤقتًا حتى تفعيل الجيلبريك القادم.";
+
+"Hint_Hide_Jailbreak_Jailbroken" = "\" إخفاء الجيلبريك\" يعطل الجيلبريك جزئيًا ويجعل كشفه أكثر صعوبة. ومع ذلك، فإن هذه الخاصية ليست فعالة ١٠٠٪؜ ولا تخفي كل شيء.";
+
+"Initializing Environment" = "جارِ تحسين البيئة";
+
+"Initializing System Hook" = "تحسين تكامل النظام";
+
+"Jailbreak_Done" = "تم!";
+
+"Launching kexploitd" = "جارِ استغلال الثغرة";
+
+"Enabling Wi-Fi" = "تشغيل Wi-Fi";
+
+"Disabling Wi-Fi" = "تعطيل Wi-Fi";
+
+"Launching oobPCI" = "جارِ تشغيل oopPCI";
+
+"Loading Basebin Trustcache" = "تحميل بنية الذاكرة المؤقتة";
+
+"Menu_Credits_Title" = "الاعتمادات";
+
+"Menu_Settings_Title" = "الإعدادات";
+
+"Menu_Reboot_Userspace_Title" = "إعادة تشغيل Userspace";
+
+"Menu_Restart_SpringBoard_Title" = "إعادة تشغيل واجهة النظام";
+
+"Settings_iDownload" = "iDownload (محطة المطور)";
+
+"Settings_Tweak_Injection" = "وصول الأدوات";
+
+"Settings_Verbose_Logs" = "السجلات المطولة";
+
+"Patchfinding" = "العثور على التصحيح";
+
+"PM_Reinstall_Done_Text" = "تم إعادة تثبيت مديري الحزم المختارين";
+
+"Rebuilding TrustCache" = "إعادة بناء الذاكرة المؤقتة";
+
+"Refreshing Icon Cache" = "تحديث ذاكرة التخزين المؤقتة للأيقونات";
+
+"Settings_Footer_Device_Bootstrapped" = "تم تمهيد الجهاز";
+
+"Settings_Footer_Device_Not_Bootstrapped" = "لم يتم تمهيد الجهاز";
+
+"Starting jailbreakd" = "بدء jailbreakd";
+
+"Starting Launch Daemons" = "بدء تشغيل العمليات الخفية";
+
+"Status_Title_Jailbreaking" = "جارِ تفعيل الجيلبريك";
+
+"Status_Title_Jailbroken" = "الجيلبريك مفعل";
+
+"Status_Title_Select_Package_Managers" = "اختر مدير الحزمة";
+
+"Status_Title_Unsuccessful" = "فشل";
+
+"Success_Rate %@%% (%lld/%lld)" = "معدل النجاح: %@%% (%lld/%lld)";
+
+"Title_Changelog" = "سجل التغييرات";
+
+"Title_Made_By" = "بواسطة opa334 و évelyne\nواجهة المستخدم بواسطة sourceloc\nيعتمد على Fugu15";
+
+"Title_Supported_iOS_Versions" = "iOS 15.0 - 15.4.1 | A12 - A15, M1";
+
+"Update_Log_Hint_Scrollable" = "يمكن التمرير في هذه الواجهة";
+
+"Update_Status_Downloading" = "جارِ تنزيل التحديث…";
+
+"Update_Status_Installing" = "جارِ تثبيت التحديث…";
+
+"Update_Status_Subtitle_Please_Wait" = "يرجى الانتظار لحين الانتهاء من تنزيل الملفات";
+
+"Update_Status_Subtitle_Restart_Soon" = "سيتم إعادة تشغيل الجهاز خلال لحظات";
+
+"Alert_Button_Uninstall" = "إلغاء التثبيت";
+
+"Alert_Tweak_Injection_Toggled_Body" = "إعادة تشغيل userspace ضرورية لتطبيق التغييرات. هل تريد فعلها الآن؟";
+
+"Popup_Change_Mobile_Password_Title" = "تغيير كلمة سر الهاتف";
+
+"Settings_Remove_Jailbreak_Alert_Body" = "ستؤدي إزالة الجيلبريك إلى حذف جميع الملفات المتعلقة به، ولكن سيتم الاحتفاظ بجميع التطبيقات والملفات والبيانات العادية. هل أنت متأكد من أنك تريد الاستمرار؟ لا يمكنك التراجع عن هذا الإجراء.";
+
+"Settings_Remove_Jailbreak_Alert_Title" = "إزالة الجيلبريك";
+
+"Settings_Tweak_Injection_Toggled_Alert_Title" = "يتطلب إعادة تشغيل Userspace";
+
+"Select_Package_Managers_Install_Message" = "إذا كنت محتارًا في الاختيار، فاختر Sileo";
+
+"Select_Package_Managers_Reinstall_Message" = "حدد مديري الحزم لإعادة التثبيت";
+
+"Reinstall" = "إعادة التثبيت";
+
+"Continue" = "استمرار";
+
+"Close" = "إغلاق";
+
+"Title_Mismatching_Environment_Version" = "نسخة بيئة غير متطابقة";
+
+"Mismatching_Environment_Version_Update_Body" = "تم كسر حماية إصدار البيئة لهذا الجهاز مع (%@) مما يؤدي إلى عدم تطابق إصدار التطبيق المثبت حاليًا (%@)\nسيؤدي الضغط على التحديث إلى تحديث بيئة الجيلبريك إلى أحد التطبيقات المثبتة حاليًا، وسيقوم جهازك بإعادة تشغيل userspace بعد ذلك.";
